@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fixture_date: 2019-04-06
+  match_day: 1
+  home_team_score: 1
+  away_team_score: 1
+  home_team: one
+  away_team: one
+  pitch: one
+
+two:
+  fixture_date: 2019-04-06
+  match_day: 1
+  home_team_score: 1
+  away_team_score: 1
+  home_team: two
+  away_team: two
+  pitch: two

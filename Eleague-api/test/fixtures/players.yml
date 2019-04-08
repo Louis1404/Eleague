@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  photo: MyString
+  position: MyString
+  jersey_number: MyString
+  team: one
+  user: one
+  player_season_stats: one
+
+two:
+  photo: MyString
+  position: MyString
+  jersey_number: MyString
+  team: two
+  user: two
+  player_season_stats: two

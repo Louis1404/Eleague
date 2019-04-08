@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  photo: MyString
+  logo: MyString
+  team_season_stats: one
+
+two:
+  name: MyString
+  photo: MyString
+  logo: MyString
+  team_season_stats: two

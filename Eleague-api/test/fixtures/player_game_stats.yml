@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  goals_for: 1
+  goals_against: 1
+  assists: 1
+  yellow_cards: 1
+  red_cards: 1
+  fixture: one
+  player: one
+
+two:
+  goals_for: 1
+  goals_against: 1
+  assists: 1
+  yellow_cards: 1
+  red_cards: 1
+  fixture: two
+  player: two
